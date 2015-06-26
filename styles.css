@@ -1,0 +1,12 @@
+body {
+	background-color:white;
+}
+p {
+	color:white;
+}
+p.joh {
+	color:blue;
+}
+h1 {
+	font-size: 180px;
+}
